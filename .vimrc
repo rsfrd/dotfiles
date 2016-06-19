@@ -1,3 +1,4 @@
+imap jj <Esc>
 
 :set showmode
 :set number
